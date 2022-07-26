@@ -1,2 +1,2 @@
-# DataMining
-some data mining tasks
+# DataAnalysis
+working with queries on Divar dataset.
