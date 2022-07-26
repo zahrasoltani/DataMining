@@ -1,7 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@author: zahra
-"""
+
 
 import pandas as pd
 import numpy
@@ -93,7 +90,7 @@ print("showing approximately number of clicked ads for each query:")
 print("")
 print(queries2)
 
-#calculating percent:
+
 
    
 
